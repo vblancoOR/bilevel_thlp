@@ -1,0 +1,1 @@
+Datasets used in our experimentation: AP, CAB, and TR. See Wandelt, S., Dai, W., Zhang, J., & Sun, X. (2022). Toward a reference experimental benchmark for solving hub location problems. Transportation Science, 56(2), 543-564.
